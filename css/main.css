@@ -100,14 +100,14 @@ textarea {
 
 html {
   height: 100%;
-  background: #000000e6;
+  background: #000000;
 }
 
 body {
   font-family: 'Source Sans Pro', sans-serif;
   padding: 2em;
   font-size: 1.25em;
-  color: #ffffffdb;
+  color: #ffffff;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -156,7 +156,7 @@ h1 {
   justify-content: center;
   line-height: 1.5em;
   font-size: 1em;
-  padding: 1em;
+  padding: 25px;
   /* margin: 1%; */
   /* height: 300px; */
 }
